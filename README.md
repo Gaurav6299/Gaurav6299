@@ -9,4 +9,5 @@
 - 😄 Pronouns:
 - ⚡ Fun fact: 
 
-<img  src="https://www.interoadvisory.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-11-at-10.20.33-PM.png" width="32px"/>("https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/)
+### Connect With Me
+<img  src="https://www.interoadvisory.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-11-at-10.20.33-PM.png" width="32px"/>
