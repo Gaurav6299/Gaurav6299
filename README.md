@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I love to play cricket/singing
 
  ### Connect With Me 
- <img  src="https://www.interoadvisory.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-11-at-10.20.33-PM.png" width="32px"/>
+ [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
