@@ -10,4 +10,3 @@
 - ⚡ Fun fact: I love to play cricket/singing
 
  ### Connect With Me 
-[<img align="left" alt="https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-@kumargaurav]
