@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I love to play cricket/singing
 
  ### Connect With Me 
- [<img align="left" alt="https://github.com/Gaurav6299/Ecommerce" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
+ [<img align="left" alt="https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/e" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
