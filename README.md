@@ -1,4 +1,4 @@
-<img align="right" width="250px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/giphy.webp" />
+<img align="right" width="250px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/coder.gif" />
 
 ### Hi Kumar Gaurav 👋
 
