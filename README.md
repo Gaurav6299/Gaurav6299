@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile generate/giphy.webp/>
+
 ### Hi Kumar Gaurav 👋
 
 - 🔭 I’m currently working on Food Odering App
