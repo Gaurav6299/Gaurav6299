@@ -1,7 +1,9 @@
 <img align="right" width="250px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/giphy.webp" />
 
 <h1 align="center">Hollo 👋 I 'm Kumar Gaurav <img src="https://github.com/Gaurav6299/Gaurav6299/blob/master/profile%20generate/
-coder.gif" width="60px"></h>
+coder.gif" width="60px"></h1>
+
+<br>
 
 - 🔭 I’m currently working on Food Odering App
 - 🌱 I’m currently learning Android Development
