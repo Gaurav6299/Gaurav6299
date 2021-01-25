@@ -1,6 +1,8 @@
-<img align="right" width="250px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/giphy.webp" />
+<img align="right" width="270px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/giphy.webp" />
 
 <h1 align="center">Hollo 👋 I 'm Kumar Gaurav <img src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/tunny.gif" width="85px" height="65px"></h1>
+
+[![Hello! Welcome to my profile](<img src="https://img.shields.io/appveyor/tests/Gaurav6299/Gaurav6299">)]
 
 <br>
 
