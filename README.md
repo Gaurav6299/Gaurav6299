@@ -11,8 +11,11 @@
 - 🌱 I’m currently learning **Android Development🤩**
 - 👯 I’m looking to collaborate on YouTube
 - 🤔 I’m looking for help in Java Development.
-- <details><summary>💬 Ask me about programming languages👩‍💻</summary><a href="https://web.whatsapp.com"><img align="center"  width="60px"target="blank" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/what.jpg"></details>
-- 😄 Pronouns:My pronouncing capability is very good.
+- <details><summary>💬 Ask me about programming languages👩‍💻</summary><a href="https://web.whatsapp.com"><img align="center"  width="40px"target="blank" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/what.jpg"></a></details>
+<!-- - 😄 Pronouns:My pronouncing capability is very good. -->
+
+- <details> <summary>📫 How to reach me </summary><a href="kumargaurav6299@gmail.com"><img align="center" target="black" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/mail.jpg" width="40px"></a><a href="https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/"><img align="right" src="https://raw.githubusercontent/Gaurav6299/Gaurav6299/master/profile%20generate/link.jpg"></a></details>
+
 - ⚡ Fun fact: I love to play cricket/singing
 
  ### Connect With Me 
