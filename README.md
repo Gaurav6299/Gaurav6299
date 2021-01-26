@@ -7,12 +7,11 @@
 [![Repos](https://badges.pufler.dev/repos/Gaurav6299)](https://github.com/Gaurav6299?tab=repositories) [![Connect to LinkedIn](https://img.shields.io/badge/-linkedin?label=linkedin&logo=linkedin&style=social)](https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/)
 <br>
 
-- 🔭 I’m currently working on Food Odering App
-- 🌱 I’m currently learning Android Development
+- 🔭 I’m currently working on **Food Odering App😎**
+- 🌱 I’m currently learning **Android Development🤩**
 - 👯 I’m looking to collaborate on YouTube
 - 🤔 I’m looking for help in Java Development.
-- 💬 Ask me about programming languages
-- 📫 How to reach me: [linkedin-@kumargaurav](https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/),[facebook-@kumargaurav](https://www.facebook.com/profile.php?id=100037267546579),[Twitter-@kumargaurav](https://mobile.twitter.com/kumarga77116666),[YouTube-@kumargaurav](youtube.com)
+- <details><summery>💬 Ask me about programming languages👩‍💻</summery><a href="https://web.whatsapp.com"><img align="center" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/what.jpg"></details>
 - 😄 Pronouns:My pronouncing capability is very good.
 - ⚡ Fun fact: I love to play cricket/singing
 
