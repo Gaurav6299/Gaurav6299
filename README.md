@@ -4,7 +4,7 @@
 
 <!-- <-> -->
 [![Hello Coder Welcome to my github](https://img.shields.io/badge/Hello,%20Coder!-Welcome-orange?style=flat&logo=github)](https://github.com/Gaurav6299) [![followers](https://img.shields.io/github/followers/Gaurav6299?style=social)](https://github.com/Gaurav6299?tab=followers) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com)](https://twitter.com/kumarga77116666) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/Gaurav6299)
-[![Repos](https://badges.pufler.dev/repos/Gaurav6299)](https://github.com/Gaurav6299?tab=repositories) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/)
+[![Repos](https://badges.pufler.dev/repos/Gaurav6299)](https://github.com/Gaurav6299?tab=repositories) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?label=linkedin&logo=linkedin&style=social)](https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/)
 <br>
 
 - 🔭 I’m currently working on Food Odering App
