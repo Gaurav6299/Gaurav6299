@@ -2,10 +2,8 @@
 
 <h1 align="center">Hollo 👋 I 'm Kumar Gaurav <img src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/tunny.gif" width="85px" height="65px"></h1>
 
-
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)]
-(https://github.com/Gaurav6299)
-
+<!-- <-> -->
+[![GitHub deployments](https://img.shields.io/github/deployments/Gaurav6299/Gaurav6299/shields-stagging?label=Hello%20Gaurav&logo=github)]
 <br>
 
 - 🔭 I’m currently working on Food Odering App
