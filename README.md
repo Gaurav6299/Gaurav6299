@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Android Development🤩**
 - 👯 I’m looking to collaborate on YouTube
 - 🤔 I’m looking for help in Java Development.
-- <details><summary>💬 Ask me about programming languages👩‍💻</summary><a href="https://web.whatsapp.com"><img align="center" target="blank" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/what.jpg"></details>
+- <details><summary>💬 Ask me about programming languages👩‍💻</summary><a href="https://web.whatsapp.com"><img align="center"  width="60px"target="blank" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/what.jpg"></details>
 - 😄 Pronouns:My pronouncing capability is very good.
 - ⚡ Fun fact: I love to play cricket/singing
 
