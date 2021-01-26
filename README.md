@@ -3,11 +3,7 @@
 <h1 align="center">Hollo 👋 I 'm Kumar Gaurav <img src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/tunny.gif" width="85px" height="65px"></h1>
 
 <!-- <-> -->
-<<<<<<< HEAD
-![Hello Coder Welcome to my github](https://img.shields.io/badge/Hello%20Coder,-Welcome-orange?style=flat&logo=github)
-=======
-[![Hello Coders Welcome to my github](https://img.shields.io/badge/Hello%20Programmer-Dude-orange)]
->>>>>>> 29d5d0a842ab423e909c45b496c6d0c574c0ac9c
+[![Hello Coder Welcome to my github](https://img.shields.io/badge/Hello%20Coder,-Welcome-orange?style=flat&logo=github)]
 <br>
 
 - 🔭 I’m currently working on Food Odering App
