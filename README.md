@@ -1,6 +1,6 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://github.com/Gaurav6299)
 
-<img align="right" width="300px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/giphy.webp" />
+<img align="right" width="350px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/giphy.webp" />
 
 <h1 align="center">Hollo 👋 I 'm Kumar Gaurav <img src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/tunny.gif" width="85px" height="65px"></h1>
 
@@ -22,7 +22,7 @@
 
 - <details> <summary>⚡ Fun fact:</summary><img align="center" width="60px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/fun.gif"> </details>
 
-- <details><summary>😅 Hey ! Don't miss out to see my project</summary><a href="https://github.com/Gaurav6299/AndroidProject"><img align="center" margin-left="20px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/android.png" width="60px"><a href="https://github.com/Gaurav6299/jarvis12/blob/master/jarvis.py"><img align="center" margin-left="20px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/python.jpg" width="60px" height="50px"></a></a></details>
+- <details><summary>😅 Hey ! Don't miss out to see my project</summary><a href="https://github.com/Gaurav6299/AndroidProject"><img align="center" margin-left="20px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/android.png" width="60px"><a href="https://github.com/Gaurav6299/jarvis12/blob/master/jarvis.py"><img align="center" margin-left="20px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/python.jpg" width="60px" height="50px"><a href="https://github.com/Gaurav6299/Clock"><img align="center" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/html.jpg"></a></a></a></details>
 <br><br>
 
  ### Connect With Me 
