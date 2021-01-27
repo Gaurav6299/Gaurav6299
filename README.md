@@ -22,7 +22,7 @@
 
 - <details> <summary>⚡ Fun fact:</summary><img align="center" width="60px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/fun.gif"> </details>
 
-- <details><summary>😅 Hey ! Don't miss out to see my project</summary><a href="https://github.com/Gaurav6299/AndroidProject"><img align="center" margin-left="20px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/android.png" width="60px"><a href="https://github.com/Gaurav6299/jarvis12/blob/master/jarvis.py"><img align="center" margin-left="20px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/python.jpg" width="60px" height="50px"><a href="https://github.com/Gaurav6299/Clock"><img align="center" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/html.jpg" width="60px"></a></a></a></details>
+- <details><summary>😅 Hey ! Don't miss out to see my project</summary><a href="https://github.com/Gaurav6299/AndroidProject"><img align="center" margin-left="20px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/android.png" width="60px"><a href="https://github.com/Gaurav6299/jarvis12/blob/master/jarvis.py"><img align="center" margin-left="20px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/python.jpg" width="60px" height="50px"><a href="https://github.com/Gaurav6299/Clock"><img align="center" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/html5.jpg" width="60px" margin-left="20px"></a></a></a></details>
 <br><br>
 
  ### Connect With Me 
