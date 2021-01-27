@@ -18,7 +18,7 @@
 
 <!-- - 😄 Pronouns:My pronouncing capability is very good. -->
 
-- <details> <summary>📫 How to reach me </summary><a href="kumargaurav6299@gmail.com"><img align="center" target="black" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/mail.jpg" width="30px"> <a href="https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/"><img align="center" target="black" width="25px" margin-left="20px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/link.jpg"></a></a></details>
+- <details> <summary>📫 How to reach me </summary><a href="kumargaurav6299@gmail.com"><img align="center" target="black" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/mail.jpg" width="30px" margin-left="20px"> <a href="https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/"><img align="center" target="black" width="25px" margin-left="20px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/link.jpg"></a></a></details>
 
 - <details> <summary>⚡ Fun fact:</summary><img align="center" width="60px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/fun.gif"> </details>
 
