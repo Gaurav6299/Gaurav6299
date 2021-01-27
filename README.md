@@ -1,6 +1,6 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://github.com/Gaurav6299)
 
-<img align="right" width="270px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/giphy.webp" />
+<img align="right" width="300px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/giphy.webp" />
 
 <h1 align="center">Hollo 👋 I 'm Kumar Gaurav <img src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/tunny.gif" width="85px" height="65px"></h1>
 
@@ -21,6 +21,8 @@
 - <details> <summary>📫 How to reach me </summary><a href="kumargaurav6299@gmail.com"><img align="center" target="black" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/mail.jpg" width="30px"> <a href="https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/"><img align="center" target="black" width="25px" margin-left="20px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/link.jpg"></a></a></details>
 
 - <details> <summary>⚡ Fun fact:</summary><img align="center" width="60px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/fun.gif"> </details>
+
+- <details><summary>😅 Hey ! Don't miss out to see my project</summary><a href="https://github.com/Gaurav6299/AndroidProject"><img align="center" margin-left="20px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/android.png" width="60px"></a></details>
 <br><br>
 
  ### Connect With Me 
