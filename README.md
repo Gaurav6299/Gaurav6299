@@ -26,5 +26,5 @@
 
 <br><br>
 
- ### Connect With Me 
+<img src="https://img.shields.io/badge/Languages%20And%20Tools-📚-orange?style=for-the-badge&logo=gaurav"/>
 
