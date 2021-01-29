@@ -29,6 +29,6 @@
 <img src="https://img.shields.io/badge/Languages%20And%20Tools-📚-orange?style=for-the-badge&logo=gaurav"/>
 
 
-<p align="left"><img alt="android" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/android.png"  height="30px" width="30px" /> <img  alt="C" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/c.jpg" width="30px" height="30px"/> <img src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/CPlus.jpg" width="30px" height="30px"/> <img alt="html" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/css1.jpg" height="30px" width="30px"/> <img alt="css" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/html5.jpg" width="40px" height="40px"/>
+<p align="left"><img alt="android" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/android.png"  height="30px" width="30px" /> <img  alt="C" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/c.jpg" width="30px" height="30px"/> <img src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/CPlus.jpg" width="30px" height="30px"/> <img alt="html" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/css1.jpg" height="30px" width="30px"/> <img alt="css" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/html5.jpg" width="45px" height="35px"/>
 </p>
 
