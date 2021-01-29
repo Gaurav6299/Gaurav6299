@@ -29,5 +29,5 @@
 <img src="https://img.shields.io/badge/Languages%20And%20Tools-📚-orange?style=for-the-badge&logo=gaurav"/>
 
 
-<img  height="40px" width="40px" align="left" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/android.png"/><img align="left" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/c.jpg" width="40px" height="40px"/>
+<p align="left"><img  height="40px" width="40px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/android.png"/><img src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/c.jpg" width="40px" height="40px"/></p>
 
