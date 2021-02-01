@@ -2,12 +2,12 @@
 
 <!-- <img align="right" width="320px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/giphy.webp" /> -->
 
-<img align="right" width="350px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
+<img align="right" width="330px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 <h1 align="center">Hollo 👋 I 'm Kumar Gaurav <img src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/tunny.gif" width="60px" height="50px"></h1>
 
 <!-- <-> -->
 [![Hello Programmer Welcome to my github Profile](https://img.shields.io/badge/Hello,%20Coder!-Welcome-orange?style=flat&logo=github)](https://github.com/Gaurav6299) [![followers](https://img.shields.io/github/followers/Gaurav6299?style=social)](https://github.com/Gaurav6299?tab=followers) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com)](https://twitter.com/kumarga77116666) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/Gaurav6299)
-[![Repos](https://badges.pufler.dev/repos/Gaurav6299)](https://badges.pufler.dev/repos/Gaurav6299?tab=repositories) [![Connect to LinkedIn](https://img.shields.io/badge/-linkedin?label=linkedin&logo=linkedin&style=social)](https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/)
+[![Repos](https://badges.pufler.dev/repos/Gaurav6299)](https://github.com/Gaurav6299?tab=repositories) [![Connect to LinkedIn](https://img.shields.io/badge/-linkedin?label=linkedin&logo=linkedin&style=social)](https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/)
 <br>
 
 - 🔭 I’m currently working on **Food Odering App😎**
