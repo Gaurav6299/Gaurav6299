@@ -2,7 +2,7 @@
 
 <!-- <img align="right" width="320px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/giphy.webp" /> -->
 
-<img align="right" width="330px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
+<img align="right" width="350px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 <h1 align="center">Hollo 👋 I 'm Kumar Gaurav <img src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/tunny.gif" width="60px" height="50px"></h1>
 
 <!-- <-> -->
