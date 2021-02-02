@@ -27,6 +27,7 @@
 
 <br><br>
 
+<img align="right" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/code.gif" width="60px" height="50px" />
 <img src="https://img.shields.io/badge/Languages%20And%20Tools-📚-orange?style=for-the-badge&logo=gaurav"/>
 
 
@@ -34,4 +35,5 @@
 <img alt="javascript" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/javascript-original.svg" width="30px" height="30px"/>
 <img  alt="python" src="https://raw.githubusercontent.com/Gaurav6299/gaurav6299/master/profile%20generate/python-original.svg" width="30px" height="30px"/> <img alt="mongo" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/mongodb-original-wordmark.svg" width="30px" height="30px"/> <img alt="mysql" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/mysql-original-wordmark.svg" width="30px" height="30px"/> <img alt="mraquee" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/linux-original.svg" width="30px" height="30px"/> <img alt="mraquee" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/nodejs.svg" width="30px" height="30px"/> <img alt="mraquee" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/react-logo.svg" width="30px" height="30px"/>
 </p>
+<br><br>
 
