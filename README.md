@@ -37,11 +37,12 @@
 </p>
 <br><br>
 
-<img src="https://img.shields.io/badge/Spotify%20Playing-🎧-blue?style=for-the-badge&logo=gaurav">
+<img src="https://img.shields.io/badge/Spotify%20Playing-🎧-blue?style=for-the-badge&logo=gaurav"/>
 <br>
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 <br><br>
 
+<img src="https://img.shields.io/badge/Kumar%20Gaurav'%20Github%20Stats-🙂-orange"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav6299&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते Programmers! 👏&layout=compact"/>
 
