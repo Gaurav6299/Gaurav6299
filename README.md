@@ -37,3 +37,5 @@
 </p>
 <br><br>
 
+<img src="https://img.shields.io/badge/Spotify%20Playing-🎧-blue?style=for-the-badge&logo=gaurav">
+
