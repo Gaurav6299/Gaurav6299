@@ -29,8 +29,9 @@
 
 <!-- <img align="center" src="https://wakatime.com/share/@7f6a706d-90eb-443f-b593-0a9c014341a7/963d655a-2812-44b9-9aaf-c5cffe1ae4ef.svg"/> -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gaurav6299&repo=Ecommerce)](https://github.com/Gaurav6299/github-readme-stats)
-
+<a href="https://github.com/Gaurav6299/paymentgateway">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav6299&repo=paymentgateway&theme=material-palenight"/>
+</a>
 
 <img align="right" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/code.gif" width="60px" height="50px" />
 <img src="https://img.shields.io/badge/Languages%20And%20Tools-📚-orange?style=for-the-badge&logo=gaurav"/>
