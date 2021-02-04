@@ -29,9 +29,6 @@
 
 <!-- <img align="center" src="https://wakatime.com/share/@7f6a706d-90eb-443f-b593-0a9c014341a7/963d655a-2812-44b9-9aaf-c5cffe1ae4ef.svg"/> -->
 
-<a href="https://github.com/Gaurav6299/paymentgateway">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav6299&repo=paymentgateway&theme=material-palenight"/>
-</a>
 
 <img align="right" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/code.gif" width="60px" height="50px" />
 <img src="https://img.shields.io/badge/Languages%20And%20Tools-📚-orange?style=for-the-badge&logo=gaurav"/>
@@ -52,4 +49,12 @@
 <img src="https://img.shields.io/badge/Kumar%20Gaurav'%20Github%20Stats-🙂-orange?style=for-the-badge&logo=gaurav"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav6299&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते Programmers! 👏&layout=compact"/>
+
+<a href="https://github.com/Gaurav6299/paymentgateway">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav6299&repo=paymentgateway&layout=compact&theme=material-palenight"/>
+</a>
+
+<a href="https://github.com/Gaurav6299/paymentgateway">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav6299&repo=paymentgateway&theme=material-palenight"/>
+</a>
 
