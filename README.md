@@ -1,9 +1,9 @@
 <!-- [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://github.com/Gaurav6299) -->
 
-<img align="right" width="320px" height="300px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/codder.gif" />
+<img align="right" width="330px" height="300px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/codder.gif" />
 
 <!-- <img align="right" width="330px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/> -->
-<h1 align="center">Hollo 👋 I 'm Kumar Gaurav <img src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/tunny.gif" width="60px" height="50px"></h1>
+<h1 align="left">Hollo 👋 I 'm Kumar Gaurav <img src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/tunny.gif" width="60px" height="50px"></h1>
 
 <!-- <-> -->
 [![Hello Programmer Welcome to my github Profile](https://img.shields.io/badge/Hello,%20Coder!-Welcome-orange?style=flat&logo=github)](https://github.com/Gaurav6299) [![followers](https://img.shields.io/github/followers/Gaurav6299?style=social)](https://github.com/Gaurav6299?tab=followers) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com)](https://twitter.com/kumarga77116666) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/Gaurav6299)
