@@ -2,7 +2,7 @@
 
 <!-- <img align="right" width="320px" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/giphy.webp" /> -->
 
-<img align="right" width="330px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
+<img align="right" width="330px" height="200px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/codder.gif"/>
 <h1 align="center">Hollo 👋 I 'm Kumar Gaurav <img src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/tunny.gif" width="60px" height="50px"></h1>
 
 <!-- <-> -->
@@ -44,5 +44,6 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/Kumar%20Gaurav'%20Github%20Stats-🙂-orange?style=for-the-badge&logo=gaurav"/>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav6299&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते Programmers! 👏&layout=compact"/>
 
