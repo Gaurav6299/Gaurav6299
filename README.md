@@ -63,6 +63,6 @@
 <br>
 
 <details><summary>Wakatime Stats :octocat:</summary>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@7f6a706d-90eb-443f-b593-0a9c014341a7/5aaa482c-1dbe-48b8-a18a-626685a57a2d.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@7f6a706d-90eb-443f-b593-0a9c014341a7/5aaa482c-1dbe-48b8-a18a-626685a57a2d.png&custom_title=Wakatime" /></a>
 </details>
 
