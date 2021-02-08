@@ -60,3 +60,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav6299&repo=paymentgateway&theme=material-palenight"/>
 </a>
 
+<details><summary>Wakatime Stats :octocat:</summary>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@7f6a706d-90eb-443f-b593-0a9c014341a7/20ee9179-7ab0-4b85-950a-cdeace807a67.png" width="100px" /></a>
+</details>
+
