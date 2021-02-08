@@ -53,15 +53,16 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav6299&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=material-palenight&custom_title=नमस्ते Programmers! 👏&layout=compact"/>
 
 <a href="https://github.com/Gaurav6299/paymentgateway">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav6299&repo=paymentgateway&layout=compact&theme=material-palenight"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav6299&repo=paymentgateway&layout=compact&theme=material-palenight&custom_title=Project Language:PayementGateWay"/>
 </a>
 
 <a href="https://github.com/Gaurav6299/paymentgateway">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav6299&repo=paymentgateway&theme=material-palenight"/>
 </a>
 <br>
+<br>
 
 <details><summary>Wakatime Stats :octocat:</summary>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@7f6a706d-90eb-443f-b593-0a9c014341a7/5aaa482c-1dbe-48b8-a18a-626685a57a2d.png& title=WakaTime" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@7f6a706d-90eb-443f-b593-0a9c014341a7/5aaa482c-1dbe-48b8-a18a-626685a57a2d.png" /></a>
 </details>
 
