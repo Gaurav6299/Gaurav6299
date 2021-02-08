@@ -53,7 +53,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav6299&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=material-palenight&custom_title=नमस्ते Programmers! 👏&layout=compact"/>
 
 <a href="https://github.com/Gaurav6299/paymentgateway">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav6299&repo=paymentgateway&layout=compact&theme=material-palenight&custom_title=Project Language:PayementGateWay"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav6299&layout=compact&theme=material-palenight"/>
 </a>
 
 <a href="https://github.com/Gaurav6299/paymentgateway">
