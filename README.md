@@ -67,5 +67,4 @@
 </details>
 <br><br>
 
-<h4 align="center">Show 💗 My Starring By<a hreaf="https://github.com/Gaurav6299"><img align="center" src="https://img.shields.io/badge/Repos!-😎-orange?style=for-the-badge&logo=gaurav"/>
-</a></h4>https://img.shields.io/badge/Repos!-😎-orange
+<h4 align="center">Show 💗 My Starring By<a hreaf="https://github.com/Gaurav6299?tab=repositories"><img align="center" src="https://img.shields.io/badge/Repos!-😎-orange?style=for-the-badge&logo=gaurav"/></a></h4>
