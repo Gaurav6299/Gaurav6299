@@ -84,7 +84,7 @@ const a={
     hobby:["Cricket","Learn Coding"]
 };
 ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em><br>
 
 <h4 align="center">Show 💗 My Starring By <a href="https://github.com/Gaurav6299?tab=repositories"><img align="center" height="22px" src="https://img.shields.io/badge/Repos!-😎-orange?style=for-the-badge&logo=gaurav"/></a></h4><br>
 
