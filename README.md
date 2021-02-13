@@ -71,7 +71,7 @@
 
 ```javascript
 const a={
-    prounce:"He" | "Him",
+    pronounce:"He" | "Him",
     code:["Java","Python","Javascript","C"],
     askMeAbout:["Web Development","HTML","CSS","Android","GIT"],
     tecnologies:{
@@ -81,10 +81,8 @@ const a={
     backEnd:["Javascript","php"],
     databases:["mongoDb","Sqlite","firebase"],
     current_focus:"Competative Programming using java",
-    hobby:["Cricket","Learn Coding"],
-}
-
-
+    hobby:["Cricket","Learn Coding"]
+};
 ```
 
 <h4 align="center">Show 💗 My Starring By <a href="https://github.com/Gaurav6299?tab=repositories"><img align="center" height="22px" src="https://img.shields.io/badge/Repos!-😎-orange?style=for-the-badge&logo=gaurav"/></a></h4><br>
