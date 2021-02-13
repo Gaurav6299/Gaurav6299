@@ -65,13 +65,23 @@
 <details><summary>Wakatime Stats :octocat:</summary>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@7f6a706d-90eb-443f-b593-0a9c014341a7/5aaa482c-1dbe-48b8-a18a-626685a57a2d.png" /></a>
 </details>
-<br><br>
+<br>
 
-<h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me</h3>
+<h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...😎</h3>
 
-```
+```javascript
 const a={
-    Name:"
+    prounce:"He" | "Him",
+    code:["Java","Python","Javascript","C"],
+    askMeAbout:["Web Development","HTML","CSS","Android","GIT"],
+    tecnologies:{
+        mobileApp:["Android"],
+        frontEnd:["HTML","CSS","JavaScript"]
+    },
+    backEnd:["Javascript","php"],
+    databases:["mongoDb","Sqlite","firebase"],
+    current_focus:"Competative Programming using java",
+    hobby:["Cricket","Learn Coding"],
 }
 
 
