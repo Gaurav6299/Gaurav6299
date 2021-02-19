@@ -106,4 +106,4 @@ const a={
 <img  src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/youtube.svg" width="50px" height="30px"/>
 </a><br><br><br>
 
-<img align="center" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/visit.gif" height="200px"/>
+<img align="center" alt="thanks" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/visit.gif" height="200px"/>
