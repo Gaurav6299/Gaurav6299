@@ -103,7 +103,7 @@ const a={
 </a>  
 
 <a href="https://www.youtube.com/channel/UCvjgKq8PqMXJVGyKVtaopkw">
-<img  src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/youtube.svg"/>
+<img  src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/youtube.svg" width="50px" height="30px"/>
 </a><br><br><br>
 
 <img align="center" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/visit.gif" height="200px"/>
