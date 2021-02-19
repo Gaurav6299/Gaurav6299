@@ -89,6 +89,21 @@ const a={
 <h4 align="center">Show 💗 My Starring By <a href="https://github.com/Gaurav6299?tab=repositories"><img align="center" height="22px" src="https://img.shields.io/badge/Repos!-😎-orange?style=for-the-badge&logo=gaurav"/></a></h4><br>
 
 <h4 align="center">Hey!👋 Don't Forget to check out my social media 🙂<img align="center" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/tenor.gif" height="30px" width="30px" /></h4>
-<a href="https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/"><img  src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/linkedin.svg" width="30px" height="30px"/></a>    <a href="https://twitter.com/kumarga77116666"><img  src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/twitter.svg" width="30px" height="30px"/></a>    <a href="https://www.facebook.com/profile.php?id=100037267546579"><img  src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/facebook.svg" width="30px" height="30px"/></a>     <a href="https://www.youtube.com/channel/UCvjgKq8PqMXJVGyKVtaopkw"><img  src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/youtube.svg" width="50px" height="50px"/></a><br><br><br>
+
+<a href="https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/">
+<img  src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/linkedin.svg" width="30px" height="30px"/>
+</a>   
+
+<a href="https://twitter.com/kumarga77116666">
+<img  src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/twitter.svg" width="30px" height="30px"/>
+</a>    
+
+<a href="https://www.facebook.com/profile.php?id=100037267546579">
+<img  src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/facebook.svg" width="30px" height="30px"/>
+</a>  
+
+<a href="https://www.youtube.com/channel/UCvjgKq8PqMXJVGyKVtaopkw">
+<img  src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/youtube.svg"/>
+</a><br><br><br>
 
 <img align="center" src="https://raw.githubusercontent.com/Gaurav6299/Gaurav6299/master/profile%20generate/visit.gif" height="200px"/>
