@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Spotify%20Playing-🎧-blue?style=for-the-badge&logo=gaurav"/>
 <br>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://giphy.com/gifs/headphones-spongebob-squarepants-tqfS3mgQU28ko)
 <br><br>
 
 
