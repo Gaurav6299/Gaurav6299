@@ -50,19 +50,19 @@
 
 <!---All Github Status Trophies-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav6299" alt="gaurav6299" /></a> </p>
+<br>
 
 <!-- Here is all about my github stats,what i have achieved in the last one to two month -->
 <img src="https://img.shields.io/badge/Kumar%20Gaurav'%20Github%20Stats-🙂-orange?style=for-the-badge&logo=gaurav"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav6299&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=material-palenight&layout=compact&locale=en" alt="gaurav6299" /></p>
+<!---<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gaurav6299&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=material-palenight&layout=compact&locale=en" alt="gaurav6299" /></p>-->
 
-<a href="https://github.com/Gaurav6299/paymentgateway">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav6299&layout=compact&theme=material-palenight"/>
-</a>
+<a href="https://github.com/Gaurav6299/paymentgateway"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav6299&layout=compact&theme=material-palenight" alt="gaurav6299" /></p></a>
 
-<a href="https://github.com/Gaurav6299/paymentgateway">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav6299&repo=paymentgateway&theme=material-palenight"/>
-</a>
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=gaurav6299&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=material-palenight&layout=compact&locale=en"alt="gaurav6299" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav6299&theme=material-palenight" alt="gaurav6299" /></p>
+
 <br>
 <br>
 
