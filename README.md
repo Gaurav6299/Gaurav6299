@@ -8,6 +8,7 @@
 <!-- <-> -->
 [![Hello Programmer Welcome to my github Profile](https://img.shields.io/badge/Hello,%20Coder!-Welcome-orange?style=flat&logo=github)](https://github.com/Gaurav6299) [![followers](https://img.shields.io/github/followers/Gaurav6299?style=social)](https://github.com/Gaurav6299?tab=followers) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com)](https://twitter.com/kumarga77116666) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/Gaurav6299)
 [![Repos](https://badges.pufler.dev/repos/Gaurav6299)](https://github.com/Gaurav6299?tab=repositories) [![Connect to LinkedIn](https://img.shields.io/badge/-linkedin?label=linkedin&logo=linkedin&style=social)](https://www.linkedin.com/in/kumar-gaurav-bb976b1a5/)
+<img src="https://komarev.com/ghpvc/?username=gaurav6299&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav6299" />
 <br>
 
 - 🔭 I’m currently working on **Food Odering App😎**
@@ -47,10 +48,13 @@
 <br><br>
 
 
+<!---All Github Status Trophies-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav6299" alt="gaurav6299" /></a> </p>
+
 <!-- Here is all about my github stats,what i have achieved in the last one to two month -->
 <img src="https://img.shields.io/badge/Kumar%20Gaurav'%20Github%20Stats-🙂-orange?style=for-the-badge&logo=gaurav"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav6299&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=material-palenight&custom_title=नमस्ते Programmers! 👏&layout=compact"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav6299&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=material-palenight&layout=compact&locale=en" alt="gaurav6299" /></p>
 
 <a href="https://github.com/Gaurav6299/paymentgateway">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav6299&layout=compact&theme=material-palenight"/>
